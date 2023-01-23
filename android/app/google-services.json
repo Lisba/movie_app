@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "69000385836",
+    "project_id": "movie-app-78175",
+    "storage_bucket": "movie-app-78175.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69000385836:android:700c88eca1342e68960889",
+        "android_client_info": {
+          "package_name": "com.movie_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69000385836-51asslc4j7srgmt3herfi3fr1bk2oumq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC37m8bA8POv-Dg_thUuJz2dV0qtcECD8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69000385836-51asslc4j7srgmt3herfi3fr1bk2oumq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "69000385836-q4fmi1bc7i2ejurkeu1t76v0hejp4plf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.movie-app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
